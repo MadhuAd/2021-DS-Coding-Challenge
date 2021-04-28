@@ -1,4 +1,4 @@
-# 2021-DS-Coding-Challenge
+# 2021-DSChallenge
 This contains the project materials related to DS Challenge.
 
 This has four major files. 
